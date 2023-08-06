@@ -13,7 +13,7 @@ const initialState = [
         code: `<div>
         <h1>Editeur de code avec React </h1>
         <p>Codez directement sur votre navigateur. </p>
-        </div>`
+</div>`
     },
     {
         id: 2,
@@ -25,8 +25,7 @@ const initialState = [
             padding: 25px;
             color: #111;
             background-color: #f1f1f1;
-        }
-        `
+}`
     },
     {
         id: 3,
