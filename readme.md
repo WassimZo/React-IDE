@@ -13,14 +13,14 @@ React IDE est un éditeur de code web qui permet aux utilisateurs de saisir et d
 ## Installation
 
 1. Cloner le dépôt :
-git clone https://github.com/WassimZo/React-IDE.git
-cd React-IDE
+`git clone https://github.com/WassimZo/React-IDE.git`
+`cd React-IDE`
 
 2. Installer les dépendances :
-npm install
+`npm install`
 
 3. Lancer l'application en mode développement :
-npm run dev
+`npm run dev`
 
 4. Ouvrir l'application dans votre navigateur à l'adresse [http://localhost:5173].
 
@@ -29,10 +29,10 @@ npm run dev
 Vous pouvez également exécuter l'application à l'aide de Docker. Assurez-vous que Docker est installé sur votre système, puis suivez ces étapes :
 
 1. Construire l'image Docker :
-docker build -t react-ide .
+`docker build -t react-ide .`
 
 2. Lancer le conteneur Docker :
-docker run -d -p 5173:5173 react-ide
+`docker run -d -p 5173:5173 react-ide`
 
 3. Ouvrir l'application dans votre navigateur à l'adresse [http://localhost:5173].
 
