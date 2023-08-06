@@ -8,19 +8,13 @@ React IDE est un éditeur de code web qui permet aux utilisateurs de saisir et d
 
 - Saisie et édition de code HTML, CSS et JavaScript dans des éditeurs dédiés.
 - Affichage en direct des résultats sur une page web intégrée.
-- Coloration syntaxique pour une meilleure lisibilité du code.
-- Possibilité d'enregistrer et de charger des projets localement.
 - Interface utilisateur intuitive et réactive.
-
-## Capture d'écran
-
-![Capture d'écran du projet](lien-vers-capture.jpg)
 
 ## Installation
 
 1. Cloner le dépôt :
-git clone https://github.com/WassimZo/react-ide.git
-cd react-ide
+git clone https://github.com/WassimZo/React-IDE.git
+cd React-IDE
 
 2. Installer les dépendances :
 npm install
