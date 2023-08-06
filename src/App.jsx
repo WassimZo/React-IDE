@@ -1,4 +1,6 @@
 import Tabs from "./components/Tabs"
+import PreviewButton from "./components/PreviewButton"
+
 function App() {
   return (
     <div className="bg-zinc-900 min-h-screen flex flex-col">
@@ -7,7 +9,7 @@ function App() {
           <span className="text-base">the</span>ReactIDE
         </h1>
         <div className="w-full">
-          <button>show Preview</button>
+          <PreviewButton/>
         </div>
         <div className="w-full flex">
           <div className="ml-auto mr-2">
